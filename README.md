@@ -1,6 +1,6 @@
 # 🖐️ Hand-Gesture-Based-Cursor-Control
 
-Control your computer cursor using **hand gestures**!  
+Control your computer cursor using **hand gestures**
 This project leverages **OpenCV**, **CVZone**, and **MediaPipe** for real-time hand tracking.
 
 ---
